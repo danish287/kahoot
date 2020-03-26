@@ -1,0 +1,8 @@
+Does Go support type inheritance? (Yes/No)
+No
+What package do we use for testing in Go? 
+Test
+Can you declared multiple types of variables in single declaration in Go? (Yes/No)
+Yes
+Declare a map named myMap using var with string type keys and string type values:
+var myMap map[string]string
